@@ -10,7 +10,7 @@
 
 #### FORKED FROM: -  |   https://github.com/G0dKing/noted.git
 
- -TODO: 
+#### -TODO: 
         -Add direct-links
         -Add install instructions for other distros
        
